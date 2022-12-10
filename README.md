@@ -4,4 +4,5 @@
 
 # Programming languages
 - CSS
-
+- HTML
+- JavaScript
